@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lik45885-kk.github.io/kangge-seo/sitemap.xml
